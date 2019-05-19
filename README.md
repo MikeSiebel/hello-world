@@ -1,4 +1,4 @@
 # hello-world
 Пробный репозитарий - хранилище.
-Hi humans.
-I try to differ this way
+I'm Mike siebel
+I like web codding, php symfony but I know little about it.
